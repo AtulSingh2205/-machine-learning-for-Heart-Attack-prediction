@@ -1,4 +1,4 @@
-#Image Processing and Feature Extraction Guide
+# Image Processing and Feature Extraction Guide
 Welcome to our image processing project! This guide will show you how to clean up images, find important features in them, and make those features easier to work with. Here’s what we’ll do:
 
 1.Clean Up Images: We’ll use a method called Non-Local Means (NLM) to reduce noise in the images.
